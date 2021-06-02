@@ -1,3 +1,3 @@
-# Move Zeroes To End-Array
+# Move Zeroes To End Array
 
 Implementation in Java
